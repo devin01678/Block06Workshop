@@ -1,0 +1,91 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#inline {
+    text-align:center;
+    margin: 5px 1120px;
+    border: 3px solid;
+    padding: 2px 3px;
+    background-color: pink;
+    width: 300px;
+}
+
+h2 {
+margin: 5px 5px;
+border: 3px solid;
+padding: 2px 3px;
+background-color: blueviolet;
+width: 200px;
+color: pink
+}
+
+#List1 {
+
+margin: 5px 5px;
+border: 3px solid;
+border-color: blueviolet;
+padding: 2px 3px;
+background-color: pink;
+width: 200px;
+display: inline-block;
+
+}
+
+#List2 {
+
+    margin: 5px 5px;
+    border: 3px solid;
+    border-color: blueviolet;
+    padding: 2px 3px;
+    background-color: pink;
+    width: 200px;
+    display: inline-block;
+
+}
+
+.picture1 {
+
+    margin: 5px 5px;
+    border: 3px solid;
+    border-color: blueviolet;
+    padding: 2px 3px;
+    display: inline-block;
+
+}
+
+.picture2 {
+
+    margin: 5px 5px;
+    border: 3px solid;
+    border-color: blueviolet;
+    padding: 2px 3px;
+    display: inline-block;
+}
+
+#List3 {
+   
+    margin: 5px 5px;
+    border: 3px solid;
+    border-color: blueviolet;
+    padding: 2px 3px;
+    background-color: pink;
+    width: 200px;
+    display: inline-block;
+
+}
+
+#List4 {
+   
+    margin: 5px 5px;
+    border: 3px solid;
+    border-color: blueviolet;
+    padding: 2px 3px;
+    background-color: pink;
+    width: 200px;
+    display: inline-block
+}
+
